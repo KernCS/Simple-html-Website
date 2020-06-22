@@ -1,4 +1,4 @@
-# kerncs.xyz
+# KernCS.xyz
 
 [KernCS.xyz](http://kerncs.xyz)
 
