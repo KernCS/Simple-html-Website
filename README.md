@@ -1,3 +1,3 @@
 # kerncs.xyz
 
-[kerncs.xyz]
+[KernCS.xyz](http://kerncs.xyz)
