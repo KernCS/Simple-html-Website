@@ -30,8 +30,6 @@ body {
   to{width: 20em;}
 }
 
-
-
 /* LINK STUFF */
 .Links {
     text-align: center;
@@ -55,4 +53,9 @@ a:link {
     color: rgb(255, 255, 255);
     background-color: transparent;
     text-decoration: underline;
+  }
+
+  .Copyright {
+    position: absolute;
+    bottom: 5px;
   }
