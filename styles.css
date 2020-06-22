@@ -19,9 +19,6 @@ body {
     text-align: center;
     white-space: nowrap;
     overflow: hidden;
-/*    border-right: 2px solid rgba(255,255,255,.75);
-    width: 24em;
-*/
 }
 /* Animation */
 .anim-typewriter {
@@ -30,7 +27,7 @@ body {
 }
 @keyframes typewriter {
   from{width: 0;}
-  to{width: 20em;} /* The Speed of the type out?? {find a better way to descripe this}*/
+  to{width: 20em;}
 }
 
 

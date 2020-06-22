@@ -11,7 +11,6 @@ function display_ct() {
 
 
 var i = 0;
-var txt = 'Nice IP address: ';
 var speed = 50;
 function typeWriter() {
   if (i < txt.length) {
