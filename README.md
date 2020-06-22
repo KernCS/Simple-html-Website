@@ -1,1 +1,3 @@
-# Simple-html-Website
+# kerncs.xyz
+
+[kerncs.xyz]
