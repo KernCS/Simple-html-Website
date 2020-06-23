@@ -8,11 +8,12 @@ body {
     font-family: 'Anonymous Pro', monospace;
 }
 .Top-Text {
-    text-align: center;
+  position: relative;
+  margin: 0 auto;
+  text-align: center;
 }
 
 /* IP STUFF */
-
 .ip {
     position: relative;
     margin: 0 auto;
@@ -32,9 +33,11 @@ body {
 
 /* LINK STUFF */
 .Links {
-    text-align: center;
+  position: relative;
+  margin: 0 auto;
+  text-align: center;
 }
-a:link {
+  a:link {
     color: rgb(255, 255, 255);
     background-color: transparent;
     text-decoration: none;
@@ -55,7 +58,20 @@ a:link {
     text-decoration: underline;
   }
 
+
+
+
   .Copyright {
     position: absolute;
     bottom: 5px;
   }
+
+
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
