@@ -1,14 +1,10 @@
   .Personal_info {
     width: 300px;
     height: 400px;
-    text-align: left;
+    text-align: left center;
     border: purple;
     border-style: solid;
     font-size: 0.9em;
-  }
-
-  .time {
-      text-align: center;
   }
 
   .personal_info_text {
