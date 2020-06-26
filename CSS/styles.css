@@ -48,7 +48,7 @@ body {
     text-decoration: none;
   }
   a:hover {
-    color: red;
+    color: purple;
     background-color: transparent;
     text-decoration: underline;
   }
