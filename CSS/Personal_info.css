@@ -1,0 +1,16 @@
+  .Personal_info {
+    width: 300px;
+    height: 400px;
+    text-align: left;
+    border: purple;
+    border-style: solid;
+    font-size: 0.9em;
+  }
+
+  .time {
+      text-align: center;
+  }
+
+  .personal_info_text {
+    text-align: center;
+  }
